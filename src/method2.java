@@ -35,6 +35,9 @@ public class method2 {
     public static void main(String[] args) {
         method2 lm = new method2();
         
+        lm.kalkulator("penjumlahan", 4, 5);
+        lm.kalkulator("pengurangan", 6, 5);
+        lm.kalkulator("perkalian", 6, 7);
         lm.kalkulator("pembagian", 7, 7);
         
     }
